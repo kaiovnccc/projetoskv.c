@@ -8,7 +8,7 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
-   char estado1, estado2;
+    char estado1, estado2;
     char codigo1[4], codigo2[4];
     char cidade1[50], cidade2[50];
     int populacao1, populacao2;
@@ -66,7 +66,7 @@ int main() {
 
   // Área para exibição dos dados da cidade
 
-   printf("\nCarta 1:\n");
+    printf("\nCarta 1:\n");
     printf("Estado: %c\n", estado1);
     printf("Codigo: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", cidade1);
